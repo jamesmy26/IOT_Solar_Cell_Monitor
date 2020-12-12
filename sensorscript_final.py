@@ -23,8 +23,8 @@ else:
 
 # Set up Adafruit connection
 adafruitIoUrl = 'io.adafruit.com'
-adafruitUsername = 'jamesmy26'
-adafruitAioKey = 'aio_DjNi69lpIFnN2yYILMYOoxTDYV0s'
+adafruitUsername = 
+adafruitAioKey = 
 
 # Define callback function
 def sub_cb(topic, msg):
